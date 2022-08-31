@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: `https://100.24.61.134:${process.env.REACT_APP_API_PORT || '3001'}`,
+  baseURL: `http://100.24.61.134:${process.env.REACT_APP_API_PORT || '3001'}`,
 });
 
 export const setToken = (token) => {
