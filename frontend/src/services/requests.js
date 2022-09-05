@@ -1,7 +1,7 @@
 import axios from 'axios';
-
+// `http://100.24.61.134:${process.env.REACT_APP_API_PORT || '3001'}`,
 const api = axios.create({
-  baseURL: `http://100.24.61.134:${process.env.REACT_APP_API_PORT || '3001'}`,
+  baseURL: 'https://www.bazardopanta.com'
 });
 
 export const setToken = (token) => {
