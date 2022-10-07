@@ -7,4 +7,4 @@ React - Front-End by Trybe to show my API working
 # [Repository of project](https://github.com/ogoiddev/TFC_LeaderBoard) - (click to checkout)
 
 
-![Screenshot](https://github.com/ogoiddev/TFC-Front-End/tree/main/frontend/public/login_page_img.png)
+![Screenshot](https://github.com/ogoiddev/TFC-Front-End/blob/main/frontend/public/login_page_img.png)
